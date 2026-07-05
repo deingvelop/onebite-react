@@ -24,36 +24,22 @@ console.log(num7); // 0
 // 4. 증감 연산자
 let num8 = 10;
 console.log(num8++);    // 10
-console.log(num8);      // 11
 
 console.log(++num8);    // 12
-console.log(num8);      // 12
 
 // 5. 논리 연산자
 let or = true || false;
-console.log(or); // true
 
 let and = true && false;
-console.log(and); // false
 
 let not = !true;
-console.log(not); // false
 
 // 6. 비교 연산자
 let comp1 = 1 === "1";
-console.log(comp1); // false
-
 let comp2 = 1 !== 2;
-console.log(comp2); // true
 
 let comp3 = 2 > 1;
-console.log(comp3); // true
-
 let comp4 = 2 < 1;
-console.log(comp4); // false
 
 let comp5 = 2 >= 2;
-console.log(comp5); // true
-
 let comp6 = 2 <= 2;
-console.log(comp6); // true

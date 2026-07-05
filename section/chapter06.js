@@ -18,4 +18,3 @@ console.log(str2 + strToNum3);
 
 let num4 = 20;
 console.log(num4 + "입니다.");
- 

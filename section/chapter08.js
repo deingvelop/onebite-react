@@ -1,3 +1,4 @@
+// 1. null 병합 연산자
 let var1;
 let var2 = 10;
 let val3 = 20;
@@ -22,3 +23,4 @@ console.log(typeof var7); // boolean
 let num1 = 10;
 let result = num1 > 5 ? "5보다 큽니다." : "5보다 작습니다.";
 console.log(result); // 5보다 큽니다.
+
